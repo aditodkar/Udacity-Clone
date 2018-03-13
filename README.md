@@ -8,7 +8,15 @@
 
 3) ReactJS
 
-Screenshots:
+# Installation
+
+1) `npm install`
+
+2) `npm start`
+
+3) Web app runs on `localhost:3000`
+
+# Screenshots:
 
 ![screenshot_2](https://user-images.githubusercontent.com/16613832/37342683-50560a6c-26eb-11e8-926b-22d2d9b59eff.png)
 
