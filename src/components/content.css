@@ -1,0 +1,124 @@
+.intro{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+.enrollbtn1{
+	background-color: #FBC02D !important;
+	width: 250px;
+	height: 50px;
+	color: black !important;
+}
+
+.enrollbtn2{
+	background-color: #039BE5 !important;
+}
+
+.cardtitle1{
+	color: #3F51B5;
+	font-size:13px;
+	font-weight: bold;
+}
+
+.cardtitle2{
+	color: #FBC02D;
+	font-size:13px;
+	font-weight: bold;
+}
+
+.cardtitle3{
+	color: #3F51B5;
+	font-size:13px;
+	font-weight: bold;
+}
+
+.cardcontent1, .cardcontent2, .cardcontent3{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.enroll{
+	background-color: #4527A0;
+	height:490px;
+	text-align: center;
+}
+
+.enroll > .futuregif{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.enroll > h5{
+	color: yellow;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.enroll > h6{
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.title{
+	text-align: center;
+}
+
+.card1 , .card2, .card3{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 20px;
+  box-shadow: 0 0 8px 0;
+  width: 300px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+}
+
+.card1 > h6, .card2 > h6, .card3 > h6{
+  margin-top: 0;
+}
+
+.item{
+	padding-left: 10px;
+}
+
+.categories{
+	text-align: center;
+}
+
+.categorybtn{
+	background-color: #03A9F4 !important;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.nanodegree{
+	margin-top: 45px;
+	box-shadow: 0 0 8px 0;
+	border-radius: 2px;
+	height:300px;
+	text-align: center;
+}
+
+
+.getstarted{
+	background-color: #4FC3F7;
+	margin-top: 20px;
+}
+
+.info{
+	padding: 20px 20px 20px 20px;
+	text-align: center;
+}
+
+.info > h4, .info > h6{
+	padding-top: 10px;
+}
+
+.info > .startbtn{
+	background-color: #FFC107;
+	margin-top: 15px;
+}
